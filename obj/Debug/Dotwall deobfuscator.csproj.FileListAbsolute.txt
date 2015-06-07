@@ -1,0 +1,12 @@
+c:\users\samjam53\documents\visual studio 2013\Projects\Dotwall deobfuscator\bin\Debug\Dotwall deobfuscator.exe.config
+c:\users\samjam53\documents\visual studio 2013\Projects\Dotwall deobfuscator\bin\Debug\Dotwall deobfuscator.exe
+c:\users\samjam53\documents\visual studio 2013\Projects\Dotwall deobfuscator\bin\Debug\Dotwall deobfuscator.pdb
+c:\users\samjam53\documents\visual studio 2013\Projects\Dotwall deobfuscator\bin\Debug\dnlib.dll
+c:\users\samjam53\documents\visual studio 2013\Projects\Dotwall deobfuscator\bin\Debug\dnlib.pdb
+c:\users\samjam53\documents\visual studio 2013\Projects\Dotwall deobfuscator\bin\Debug\dnlib.xml
+c:\users\samjam53\documents\visual studio 2013\Projects\Dotwall deobfuscator\obj\Debug\Dotwall deobfuscator.csprojResolveAssemblyReference.cache
+c:\users\samjam53\documents\visual studio 2013\Projects\Dotwall deobfuscator\obj\Debug\StringDLLProtection.Form1.resources
+c:\users\samjam53\documents\visual studio 2013\Projects\Dotwall deobfuscator\obj\Debug\Dotwall_deobfuscator.Properties.Resources.resources
+c:\users\samjam53\documents\visual studio 2013\Projects\Dotwall deobfuscator\obj\Debug\Dotwall deobfuscator.csproj.GenerateResource.Cache
+c:\users\samjam53\documents\visual studio 2013\Projects\Dotwall deobfuscator\obj\Debug\Dotwall deobfuscator.exe
+c:\users\samjam53\documents\visual studio 2013\Projects\Dotwall deobfuscator\obj\Debug\Dotwall deobfuscator.pdb
